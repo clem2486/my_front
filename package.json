@@ -7,11 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write .",
-    "prepare": "husky install"
+    "prettier": "prettier --write ."
   },
   "dependencies": {
-    "husky": "^9.1.6",
     "next": "14.2.15",
     "prettier": "^3.3.3",
     "react": "^18",
